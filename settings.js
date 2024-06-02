@@ -22,39 +22,40 @@ module.exports = {
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://telegra.ph/file/044ee06e825c25c3d2337.jpg',
+    WELCOME: 'https://telegra.ph/file/dbf9a42f98c236f34a566.jpg',
+    GOODBYE: 'https://telegra.ph/file/fbc8bb9feb220997783a1.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
+
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '🌟 KelumXz__',
+  STICKER_PACK : '[ KELUMXZ__ ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
-  ANTI_LINKS : 'chat.whatsapp.com',
+  ANTI_LINKS : 'chat.RRRwhatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
-        NOT_WORKING : false,
+        NOT_WORKING : true,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : ture,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : ture,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : false,
   BGM : {
